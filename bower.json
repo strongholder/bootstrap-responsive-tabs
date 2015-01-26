@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-responsive-tabs-sh",
+  "version": "1.0.0",
+  "homepage": "https://github.com/strongholder/bootstrap-responsive-tabs",
+  "authors": [
+    "Daniel Popov"
+  ],
+  "description": "bootstrap responsive tabs to accordion",
+  "main": "js/responsive-tabs.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "bootstrap",
+    "responsive",
+    "tabs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
